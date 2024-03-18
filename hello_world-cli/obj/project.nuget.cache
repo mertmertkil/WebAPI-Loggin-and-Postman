@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "iDScVVG0dzBhrmYN+4rpK2RbsgG21zWu92vLd+ZTWV8sIesP9PwYT22Alr+9+9myz9CbgFTqmTc1DJmvH+65qA==",
+  "success": true,
+  "projectFilePath": "/Users/cemremertmertkil/Projects/basics/hello_world-cli/hello_world-cli.csproj",
+  "expectedPackageFiles": [
+    "/Users/cemremertmertkil/.nuget/packages/microsoft.aspnetcore.jsonpatch/8.0.3/microsoft.aspnetcore.jsonpatch.8.0.3.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/8.0.3/microsoft.aspnetcore.mvc.newtonsoftjson.8.0.3.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/microsoft.aspnetcore.openapi/8.0.2/microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

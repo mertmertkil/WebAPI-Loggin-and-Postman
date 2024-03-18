@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8WwDf+h48aUkasFr+RLtT5ONqdvIKnTPRriK+nXLq4sxCyaEYPXwCHgpyyZ0t6OsoS3CM+y/EeOAJJ87yqsqYw==",
+  "success": true,
+  "projectFilePath": "/Users/cemremertmertkil/Projects/basics/ProductApp/ProductApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/cemremertmertkil/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
